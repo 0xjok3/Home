@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+Welcome Sir.
+
+### Small image 
+
+![Octocat](https://raw.githubusercontent.com/0xjok3/home/master/img/120.png)  ![Octocat](https://www.hackthebox.eu/badge/image/41379)  
+
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -92,9 +99,7 @@ end
   - level 2 item
 - level 1 item
 
-### Small image 
 
-![Octocat](https://raw.githubusercontent.com/0xjok3/home/master/300x300.png)
 CODDIO
 ### Large image
 
