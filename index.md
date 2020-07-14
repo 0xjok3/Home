@@ -1,25 +1,20 @@
 ---
 layout: default
 ---
-Welcome Sir.
 
 ### Welcome Sir
 
-![Octocat](https://raw.githubusercontent.com/0xjok3/home/master/img/120.png)                     &nbsp&nbsp               ![Octocat](https://www.hackthebox.eu/badge/image/41379)  
+![Octocat](https://raw.githubusercontent.com/0xjok3/home/master/img/120.png)         
 
 
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# HackTheBox Machines WriteUp
+For see write up of hackthebox machine go here
 
-[Link to another page](./another-page.html).
+[HTB Machines WriteUp](./hackthebox_machines/index.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
