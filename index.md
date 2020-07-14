@@ -94,7 +94,7 @@ end
 
 ### Small image 
 
-![Octocat](https://raw.githubusercontent.com/0xjok3/home/master/avatar.png)
+![Octocat](https://raw.githubusercontent.com/0xjok3/home/master/300x300.png)
 CODDIO
 ### Large image
 
