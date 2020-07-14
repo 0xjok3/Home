@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 title: 0xJok3Sec
+github:
+  is_project_page: false
