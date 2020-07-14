@@ -8,7 +8,7 @@ layout: default
 
 
 
-## HackTheBox Machines WriteUp
+## -HackTheBox Machines WriteUp
 For see write up of hackthebox machine go here
 
 [HTB Machines WriteUp](./hackthebox_machines/index.html).
