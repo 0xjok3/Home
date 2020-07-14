@@ -2,8 +2,11 @@
 layout: default
 ---
 
-## Welcome to another page
+## ~HTB Machine WriteUp
 
-_yay_
+*   [~HTB SneakyMailer](./hackthebox_machines/sneakymailer.html).
+*   Item bar
+*   Item baz
+*   Item zip
 
 [back](./../../home/)
