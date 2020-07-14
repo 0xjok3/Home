@@ -5,7 +5,7 @@ layout: default
 ## ~HTB Machine WriteUp
 
 *   [~HTB SneakyMailer](./test.html).
-*   Item bar
+*   [~HTB SneakyMailer](./enc.html).
 *   Item baz
 *   Item zip
 
