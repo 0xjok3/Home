@@ -92,10 +92,10 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
+### Small image 
 
-![Octocat](https://0xjok3.github.io/home/avatar.png)
-
+![Octocat](https://raw.githubusercontent.com/0xjok3/home/master/avatar.png)
+CODDIO
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
