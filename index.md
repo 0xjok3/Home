@@ -3,9 +3,9 @@ layout: default
 ---
 Welcome Sir.
 
-### Small image 
+### Welcome Sir
 
-![Octocat](https://raw.githubusercontent.com/0xjok3/home/master/img/120.png)  ![Octocat](https://www.hackthebox.eu/badge/image/41379)  
+![Octocat](https://raw.githubusercontent.com/0xjok3/home/master/img/120.png)                                  ![Octocat](https://www.hackthebox.eu/badge/image/41379)  
 
 
 
