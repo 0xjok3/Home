@@ -4,9 +4,9 @@ layout: default
 
 ## ~HTB Machine WriteUp
 
-*   [~HTB SneakyMailer](./test.html).
-*   [~HTB SneakyMailer](./enc.html).
-*   Item baz
-*   Item zip
+*   [~HTB SneakyMailer](./sneakymailer_writeup.html).
+*   \x90
+*   \x90
+*   \x90
 
 [back](./../../home/)
